@@ -1,6 +1,6 @@
 // TODO: Create a function called ‘multiply’ that will take in 3 parameter and multiply all 3 numbers together. Note: The argument passed must NOT be the same number. 
-function multiply(x,y,z){
-  return (x*y*z)
+function multiply(num1,num2,num3){
+  return (num1*num2*num3)
 }
 console.log(multiply(2,3,4));
 
